@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ndoupaul438.github.io/paul-ndou/sitemap.xml
